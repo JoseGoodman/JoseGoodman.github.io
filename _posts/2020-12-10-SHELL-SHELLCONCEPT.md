@@ -4,7 +4,7 @@ title:      shell
 subtitle:   shell 基础
 date:       2020-12-10
 author:     AMU
-header-img: img/post-bg-ios9-web.jpg
+header-img: img/post-bg-desk.jpg
 catalog: true
 tags:
     - shell
